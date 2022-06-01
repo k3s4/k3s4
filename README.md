@@ -1,4 +1,4 @@
-### Hi there 👋
+### https://blog.sienicki.eu
 
 <!--
 **k3s4/k3s4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
